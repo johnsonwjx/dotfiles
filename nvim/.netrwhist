@@ -1,7 +1,7 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/polly/.config'
-let g:netrw_dirhist_2='/home/polly/.config/nvim'
-let g:netrw_dirhist_3='/home/polly/.config'
-let g:netrw_dirhist_4='/var/lib/xkb'
-let g:netrw_dirhist_5='/var/lib'
+let g:netrw_dirhist_1='/Users/xiong/workspace'
+let g:netrw_dirhist_2='/Users/xiong'
+let g:netrw_dirhist_3='/Users'
+let g:netrw_dirhist_4='/'
+let g:netrw_dirhist_5='/Users/xiong/workspace/python-lean/a'
